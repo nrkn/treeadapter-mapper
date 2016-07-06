@@ -1,0 +1,26 @@
+{
+  "name": "treeadapter-mapper",
+  "version": "0.1.0",
+  "description": "Use parse5-compatible TreeAdapters to map between different DOM structures",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrkn/treeadapter-mapper.git"
+  },
+  "keywords": [
+    "parse5",
+    "tree",
+    "adapter",
+    "treeadapter",
+    "map",
+    "mapper",
+    "dom",
+    "convert"
+  ],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrkn/treeadapter-mapper/issues"
+  },
+  "homepage": "https://github.com/nrkn/treeadapter-mapper#readme"
+}
